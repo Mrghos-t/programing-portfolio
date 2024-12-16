@@ -1,4 +1,4 @@
-# TRisten's programming portfolio 2024-25
+# Tristen's programming portfolio 2024-25  415282@graniteschools.org
 *project graduation 2028
 interested in Football
 *experience with python
